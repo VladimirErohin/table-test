@@ -1,0 +1,43 @@
+.panel {
+     display: flex;
+     padding: 20px;
+     flex-wrap: wrap
+ }
+
+button {
+    margin-right: 10px;
+}
+
+.btn-outline-secondary {
+    margin: 0;
+}
+
+th:hover {
+    background: #789eb3;
+    cursor: pointer;
+}
+
+.th-data:hover {
+    background: none;
+}
+
+.search-panel {
+    margin: 22px 0 0 10px;
+}
+
+td {
+    width: 10px;
+}
+
+.tableM {
+    padding: 0 10px;
+}
+
+.pages {
+    display: flex;
+    justify-content: center;
+}
+
+.mt-5{
+    margin-top: 20px !important;
+}
